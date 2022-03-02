@@ -1,4 +1,5 @@
 
+
 cd
 
 
@@ -33,7 +34,7 @@ git add .        add all fail index
 
 git 
 
-git commit -m "_"    file commit
+commit -m "_"    file commit
 
 
 
