@@ -33,7 +33,7 @@ git add .        add all fail index
 
 git 
 
-commit -m "_"    file commit
+git commit -m "_"    file commit
 
 
 
