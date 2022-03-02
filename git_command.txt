@@ -1,0 +1,56 @@
+
+cd
+
+
+
+git clone        cloning a repository
+
+git init         creating a repository (local)
+
+
+
+git status       file status
+
+git status -s
+
+git log          history commit
+
+git branch       branch status
+
+git branch -a    status of remote branches
+
+git diff         changes in files
+
+ls               show files
+
+ls -f            show files + hidden
+
+
+
+git add          add fail in index
+
+git add .        add all fail index
+
+git 
+
+commit -m "_"    file commit
+
+
+
+git rm           delete fail (local)
+
+git rm --cached  delete fail (repository)
+
+
+
+git push         synchronization
+ 
+
+
+git checkout     branch selection
+
+git merge        merging branches
+
+
+
+q                output
