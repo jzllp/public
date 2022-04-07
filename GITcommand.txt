@@ -4,7 +4,7 @@ cd
 
 
 
-git clone           cloning a repository
+git clone https://  cloning a repository
 
 git init            creating a repository (local)
 
@@ -16,9 +16,6 @@ git status -s
 
 git log             history commit
 
-git branch          branch status
-
-git branch -a       status of remote branches
 
 git diff            changes in files
 
@@ -50,6 +47,8 @@ git push            synchronization
 
 git branch new_branch create a new branch
 git branch          view the list of branches
+git branch -a       status of remote branches
+
 git checkout        branch selection
 
 git merge           merging branches
