@@ -4,33 +4,33 @@ cd
 
 
 
-git clone        cloning a repository
+git clone           cloning a repository
 
-git init         creating a repository (local)
+git init            creating a repository (local)
 
 
 
-git status       file status
+git status          file status
 
 git status -s
 
-git log          history commit
+git log             history commit
 
-git branch       branch status
+git branch          branch status
 
-git branch -a    status of remote branches
+git branch -a       status of remote branches
 
-git diff         changes in files
+git diff            changes in files
 
-ls               show files
+ls                  show files
 
-ls -f            show files + hidden
+ls -f               show files + hidden
 
 
 
-git add          add fail in index
+git add             add fail in index
 
-git add .        add all fail index
+git add .           add all fail index
 
 git 
 
@@ -38,20 +38,23 @@ git commit -m "_"    file commit
 
 
 
-git rm           delete fail (local)
+git rm              delete fail (local)
 
-git rm --cached  delete fail (repository)
+git rm --cached     delete fail (repository)
 
 
 
-git push         synchronization
+git push            synchronization
  
 
 
-git checkout     branch selection
+git branch new_branch create a new branch
+git branch          view the list of branches
+git checkout        branch selection
 
-git merge        merging branches
+git merge           merging branches
+git branch -d branch deleting a branch
 
 
 
-q                output
+q                   output
